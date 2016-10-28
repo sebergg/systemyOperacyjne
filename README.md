@@ -10,6 +10,9 @@
 * opis2
 
 
+dsadasdasdasdasfdsfghfdsadgfhjkljhgfdcv bnmvghufdytgbcvnhjuy7tghfbvn
+
+
 int main()
   {
 
